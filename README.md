@@ -35,4 +35,4 @@ Building **Agentic AI systems** and backend applications with Python, FastAPI, L
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=nidhitk&theme=dark&hide_border=true)
-![](https://streak-stats.demolab.com/?user=nidhitk&theme=dark&hide_border=true)
+
