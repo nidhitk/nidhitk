@@ -51,6 +51,4 @@ Building **Agentic AI systems** and backend applications with Python, FastAPI, L
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=nidhitk&theme=dark&hide_border=true)
